@@ -1,5 +1,6 @@
 # ELT-project
 GME Stock values and Reddit comment frequency 
+
 Team: Erin O'Brien, Fatima Shami & Michael Thomas
 
 First pulled posts from wallstreetbets from reddit using API, focusing on topics mentioning GME only and ignoring the comment data. 
